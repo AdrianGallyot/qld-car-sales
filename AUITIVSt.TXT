@@ -1,0 +1,410 @@
+AUVHOND2001AEWY|4 Speaker Stereo
+AUVHOND2001AEWY|ABS (Antilock Brakes)
+AUVHOND2001AEWY|Adjustable Steering Col. - Tilt only
+AUVHOND2001AEWY|Air Conditioning
+AUVHOND2001AEWY|Airbag - Driver
+AUVHOND2001AEWY|Airbag - Passenger
+AUVHOND2001AEWY|Body Colour - Bumpers
+AUVHOND2001AEWY|Body Colour - Fittings
+AUVHOND2001AEWY|Body Side Mouldings - Colour Coded
+AUVHOND2001AEWY|CD Player
+AUVHOND2001AEWY|Central Locking - Remote/Keyless
+AUVHOND2001AEWY|Chrome Exterior Highlights
+AUVHOND2001AEWY|Disc Brakes Front Ventilated
+AUVHOND2001AEWY|Disc Brakes Rear Solid
+AUVHOND2001AEWY|Engine Immobiliser
+AUVHOND2001AEWY|Headrests - Integrated 2nd Row
+AUVHOND2001AEWY|Independent Rear Suspension
+AUVHOND2001AEWY|Intermittent Wipers
+AUVHOND2001AEWY|Power Door Mirrors
+AUVHOND2001AEWY|Power Steering
+AUVHOND2001AEWY|Power Windows - Front & Rear
+AUVHOND2001AEWY|Remote Boot/Hatch Release
+AUVHOND2001AEWY|Remote Fuel Lid Release
+AUVHOND2001AEWY|Tacho
+AUVHOND2002AEFZ|4 Speaker Stereo
+AUVHOND2002AEFZ|ABS (Antilock Brakes)
+AUVHOND2002AEFZ|Adjustable Steering Col. - Tilt only
+AUVHOND2002AEFZ|Air Conditioning
+AUVHOND2002AEFZ|Airbag - Driver
+AUVHOND2002AEFZ|Airbag - Passenger
+AUVHOND2002AEFZ|Body Colour - Bumpers
+AUVHOND2002AEFZ|Body Colour - Fittings
+AUVHOND2002AEFZ|Body Side Mouldings - Colour Coded
+AUVHOND2002AEFZ|CD Player
+AUVHOND2002AEFZ|Central Locking - Remote/Keyless
+AUVHOND2002AEFZ|Chrome Exterior Highlights
+AUVHOND2002AEFZ|Disc Brakes Front Ventilated
+AUVHOND2002AEFZ|Disc Brakes Rear Solid
+AUVHOND2002AEFZ|Engine Immobiliser
+AUVHOND2002AEFZ|Headrests - Integrated 2nd Row
+AUVHOND2002AEFZ|Independent Rear Suspension
+AUVHOND2002AEFZ|Intermittent Wipers
+AUVHOND2002AEFZ|Power Door Mirrors
+AUVHOND2002AEFZ|Power Steering
+AUVHOND2002AEFZ|Power Windows - Front & Rear
+AUVHOND2002AEFZ|Remote Boot/Hatch Release
+AUVHOND2002AEFZ|Remote Fuel Lid Release
+AUVHOND2002AEFZ|Tacho
+AUVISUZ1990AECD|4 Wheel Disc Brakes
+AUVISUZ1990AECD|Air Conditioning
+AUVISUZ1990AECD|Power Steering
+AUVISUZ1990AECG|4 Wheel Disc Brakes
+AUVISUZ1990AECG|Air Conditioning
+AUVISUZ1990AECG|Power Steering
+AUVISUZ1990AECI|4 Wheel Disc Brakes
+AUVISUZ1990AECI|Air Conditioning
+AUVISUZ1990AECI|Power Steering
+AUVISUZ1990AECJ|4 Wheel Disc Brakes
+AUVISUZ1990AECJ|Air Conditioning
+AUVISUZ1990AECJ|Power Steering
+AUVISUZ1990AECK|4 Wheel Disc Brakes
+AUVISUZ1990AECK|Air Conditioning
+AUVISUZ1990AECK|Power Steering
+AUVISUZ1990AECL|4 Wheel Disc Brakes
+AUVISUZ1990AECL|Air Conditioning
+AUVISUZ1990AECL|Power Steering
+AUVISUZ1990AECM|4 Wheel Disc Brakes
+AUVISUZ1990AECM|Air Conditioning
+AUVISUZ1990AECM|Power Steering
+AUVISUZ1990AECN|4 Wheel Disc Brakes
+AUVISUZ1990AECN|Air Conditioning
+AUVISUZ1990AECN|Power Steering
+AUVISUZ1990AECO|4 Wheel Disc Brakes
+AUVISUZ1990AECO|Air Conditioning
+AUVISUZ1990AECO|Power Steering
+AUVISUZ1990AECP|4 Wheel Disc Brakes
+AUVISUZ1990AECP|Air Conditioning
+AUVISUZ1990AECP|Power Steering
+AUVISUZ1990AECQ|4 Wheel Disc Brakes
+AUVISUZ1990AECQ|Air Conditioning
+AUVISUZ1990AECQ|Power Steering
+AUVISUZ1990AECR|4 Wheel Disc Brakes
+AUVISUZ1990AECR|Air Conditioning
+AUVISUZ1990AECR|Power Steering
+AUVISUZ1990AECS|4 Wheel Disc Brakes
+AUVISUZ1990AECS|Air Conditioning
+AUVISUZ1990AECS|Power Steering
+AUVISUZ1990AECT|4 Wheel Disc Brakes
+AUVISUZ1990AECT|Air Conditioning
+AUVISUZ1990AECT|Power Steering
+AUVISUZ1990AECU|4 Wheel Disc Brakes
+AUVISUZ1990AECU|Air Conditioning
+AUVISUZ1990AECU|Power Steering
+AUVISUZ1990AECV|4 Wheel Disc Brakes
+AUVISUZ1990AECV|Air Conditioning
+AUVISUZ1990AECV|Power Steering
+AUVISUZ1990AECW|4 Wheel Disc Brakes
+AUVISUZ1990AECW|Air Conditioning
+AUVISUZ1990AECW|Power Steering
+AUVISUZ1990AECX|4 Wheel Disc Brakes
+AUVISUZ1990AECX|Air Conditioning
+AUVISUZ1990AECX|Power Steering
+AUVISUZ1990AECY|4 Wheel Disc Brakes
+AUVISUZ1990AECY|Air Conditioning
+AUVISUZ1990AECY|Alloy Wheels
+AUVISUZ1990AECY|Power Steering
+AUVISUZ1990AECY|Sports Seats - 1st Row (Front)
+AUVISUZ1990AECZ|4 Wheel Disc Brakes
+AUVISUZ1990AECZ|Air Conditioning
+AUVISUZ1990AECZ|Alloy Wheels
+AUVISUZ1990AECZ|Power Steering
+AUVISUZ1990AECZ|Sports Seats - 1st Row (Front)
+AUVISUZ1990AEDA|4 Wheel Disc Brakes
+AUVISUZ1990AEDA|Air Conditioning
+AUVISUZ1990AEDA|Power Steering
+AUVISUZ1990AEDB|4 Wheel Disc Brakes
+AUVISUZ1990AEDB|Air Conditioning
+AUVISUZ1990AEDB|Power Steering
+AUVISUZ1991AECE|4 Wheel Disc Brakes
+AUVISUZ1991AECE|Air Conditioning
+AUVISUZ1991AECE|Power Steering
+AUVISUZ1991AECG|4 Wheel Disc Brakes
+AUVISUZ1991AECG|Air Conditioning
+AUVISUZ1991AECG|Power Steering
+AUVISUZ1991AECH|4 Wheel Disc Brakes
+AUVISUZ1991AECH|Air Conditioning
+AUVISUZ1991AECH|Power Steering
+AUVISUZ1991AECJ|4 Wheel Disc Brakes
+AUVISUZ1991AECJ|Air Conditioning
+AUVISUZ1991AECJ|Power Steering
+AUVISUZ1991AECL|4 Wheel Disc Brakes
+AUVISUZ1991AECL|Air Conditioning
+AUVISUZ1991AECL|Power Steering
+AUVISUZ1991AECM|4 Wheel Disc Brakes
+AUVISUZ1991AECM|Air Conditioning
+AUVISUZ1991AECM|Power Steering
+AUVISUZ1991AECN|4 Wheel Disc Brakes
+AUVISUZ1991AECN|Air Conditioning
+AUVISUZ1991AECN|Power Steering
+AUVISUZ1991AECO|4 Wheel Disc Brakes
+AUVISUZ1991AECO|Air Conditioning
+AUVISUZ1991AECO|Power Steering
+AUVISUZ1991AECQ|4 Wheel Disc Brakes
+AUVISUZ1991AECQ|Air Conditioning
+AUVISUZ1991AECQ|Power Steering
+AUVISUZ1991AECS|4 Wheel Disc Brakes
+AUVISUZ1991AECS|Air Conditioning
+AUVISUZ1991AECS|Power Steering
+AUVISUZ1991AECU|4 Wheel Disc Brakes
+AUVISUZ1991AECU|Air Conditioning
+AUVISUZ1991AECU|Power Steering
+AUVISUZ1991AECW|4 Wheel Disc Brakes
+AUVISUZ1991AECW|Air Conditioning
+AUVISUZ1991AECW|Power Steering
+AUVISUZ1991AECY|4 Wheel Disc Brakes
+AUVISUZ1991AECY|Air Conditioning
+AUVISUZ1991AECY|Power Steering
+AUVISUZ1991AEDA|4 Wheel Disc Brakes
+AUVISUZ1991AEDA|Air Conditioning
+AUVISUZ1991AEDA|Power Steering
+AUVISUZ1991AEDC|4 Wheel Disc Brakes
+AUVISUZ1991AEDC|Air Conditioning
+AUVISUZ1991AEDC|Power Steering
+AUVISUZ1991AEDE|4 Wheel Disc Brakes
+AUVISUZ1991AEDE|Air Conditioning
+AUVISUZ1991AEDE|Power Steering
+AUVISUZ1991AEDG|4 Wheel Disc Brakes
+AUVISUZ1991AEDG|Air Conditioning
+AUVISUZ1991AEDG|Power Steering
+AUVISUZ1991AEDI|4 Wheel Disc Brakes
+AUVISUZ1991AEDI|Air Conditioning
+AUVISUZ1991AEDI|Power Steering
+AUVISUZ1991AEDN|4 Wheel Disc Brakes
+AUVISUZ1991AEDN|Air Conditioning
+AUVISUZ1991AEDN|Alloy Wheels
+AUVISUZ1991AEDN|Power Steering
+AUVISUZ1991AEDN|Sports Seats - 1st Row (Front)
+AUVISUZ1991AEDQ|4 Wheel Disc Brakes
+AUVISUZ1991AEDQ|Air Conditioning
+AUVISUZ1991AEDQ|Power Steering
+AUVISUZ1992AECT|4 Wheel Disc Brakes
+AUVISUZ1992AECT|Air Conditioning
+AUVISUZ1992AECT|Power Steering
+AUVISUZ1992AECY|4 Wheel Disc Brakes
+AUVISUZ1992AECY|Air Conditioning
+AUVISUZ1992AECY|Power Steering
+AUVISUZ1992AEDA|4 Wheel Disc Brakes
+AUVISUZ1992AEDA|Air Conditioning
+AUVISUZ1992AEDA|Power Steering
+AUVISUZ1992AEDC|4 Wheel Disc Brakes
+AUVISUZ1992AEDC|Air Conditioning
+AUVISUZ1992AEDC|Power Steering
+AUVISUZ1992AEDE|4 Wheel Disc Brakes
+AUVISUZ1992AEDE|Air Conditioning
+AUVISUZ1992AEDE|Power Steering
+AUVISUZ1992AEDG|4 Wheel Disc Brakes
+AUVISUZ1992AEDG|Air Conditioning
+AUVISUZ1992AEDG|Power Steering
+AUVISUZ1992AEDI|4 Wheel Disc Brakes
+AUVISUZ1992AEDI|Air Conditioning
+AUVISUZ1992AEDI|Power Steering
+AUVISUZ1992AEDK|4 Wheel Disc Brakes
+AUVISUZ1992AEDK|Air Conditioning
+AUVISUZ1992AEDK|Power Steering
+AUVISUZ1992AEDM|4 Wheel Disc Brakes
+AUVISUZ1992AEDM|Air Conditioning
+AUVISUZ1992AEDM|Power Steering
+AUVISUZ1992AEDO|4 Wheel Disc Brakes
+AUVISUZ1992AEDO|Air Conditioning
+AUVISUZ1992AEDO|Power Steering
+AUVISUZ1992AEDQ|4 Wheel Disc Brakes
+AUVISUZ1992AEDQ|Air Conditioning
+AUVISUZ1992AEDQ|Power Steering
+AUVISUZ1992AEDS|4 Wheel Disc Brakes
+AUVISUZ1992AEDS|Air Conditioning
+AUVISUZ1992AEDS|Power Steering
+AUVISUZ1992AEDU|4 Wheel Disc Brakes
+AUVISUZ1992AEDU|Air Conditioning
+AUVISUZ1992AEDU|Power Steering
+AUVISUZ1992AEDW|4 Wheel Disc Brakes
+AUVISUZ1992AEDW|Air Conditioning
+AUVISUZ1992AEDW|Power Steering
+AUVISUZ1992AEDY|4 Wheel Disc Brakes
+AUVISUZ1992AEDY|Air Conditioning
+AUVISUZ1992AEDY|Power Steering
+AUVISUZ1992AEEA|4 Wheel Disc Brakes
+AUVISUZ1992AEEA|Air Conditioning
+AUVISUZ1992AEEA|Power Steering
+AUVISUZ1992AEEC|4 Wheel Disc Brakes
+AUVISUZ1992AEEC|Air Conditioning
+AUVISUZ1992AEEC|Power Steering
+AUVISUZ1992AEEE|4 Wheel Disc Brakes
+AUVISUZ1992AEEE|Air Conditioning
+AUVISUZ1992AEEE|Power Steering
+AUVISUZ1992AEEG|4 Wheel Disc Brakes
+AUVISUZ1992AEEG|Air Conditioning
+AUVISUZ1992AEEG|Alloy Wheels
+AUVISUZ1992AEEG|Power Steering
+AUVISUZ1992AEEG|Sports Seats - 1st Row (Front)
+AUVISUZ1992AEEH|4 Wheel Disc Brakes
+AUVISUZ1992AEEH|Air Conditioning
+AUVISUZ1992AEEH|Alloy Wheels
+AUVISUZ1992AEEH|Power Steering
+AUVISUZ1992AEEH|Sports Seats - 1st Row (Front)
+AUVISUZ1992AEEI|4 Wheel Disc Brakes
+AUVISUZ1992AEEI|Air Conditioning
+AUVISUZ1992AEEI|Power Steering
+AUVISUZ1993AECE|4 Wheel Disc Brakes
+AUVISUZ1993AECE|Air Conditioning
+AUVISUZ1993AECE|Power Steering
+AUVISUZ1993AECG|4 Wheel Disc Brakes
+AUVISUZ1993AECG|Air Conditioning
+AUVISUZ1993AECG|Power Steering
+AUVISUZ1993AECI|4 Wheel Disc Brakes
+AUVISUZ1993AECI|Air Conditioning
+AUVISUZ1993AECI|Power Steering
+AUVISUZ1993AECK|4 Wheel Disc Brakes
+AUVISUZ1993AECK|Air Conditioning
+AUVISUZ1993AECK|Power Steering
+AUVISUZ1993AECM|4 Wheel Disc Brakes
+AUVISUZ1993AECM|Air Conditioning
+AUVISUZ1993AECM|Power Steering
+AUVISUZ1993AECO|4 Wheel Disc Brakes
+AUVISUZ1993AECO|Air Conditioning
+AUVISUZ1993AECO|Power Steering
+AUVISUZ1993AECQ|4 Wheel Disc Brakes
+AUVISUZ1993AECQ|Air Conditioning
+AUVISUZ1993AECQ|Power Steering
+AUVISUZ1993AECS|4 Wheel Disc Brakes
+AUVISUZ1993AECS|Air Conditioning
+AUVISUZ1993AECS|Power Steering
+AUVISUZ1993AECU|4 Wheel Disc Brakes
+AUVISUZ1993AECU|Air Conditioning
+AUVISUZ1993AECU|Power Steering
+AUVISUZ1993AECW|4 Wheel Disc Brakes
+AUVISUZ1993AECW|Air Conditioning
+AUVISUZ1993AECW|Power Steering
+AUVISUZ1993AECY|4 Wheel Disc Brakes
+AUVISUZ1993AECY|Air Conditioning
+AUVISUZ1993AECY|Power Steering
+AUVISUZ1993AEDA|4 Wheel Disc Brakes
+AUVISUZ1993AEDA|Air Conditioning
+AUVISUZ1993AEDA|Power Steering
+AUVISUZ1993AEDC|4 Wheel Disc Brakes
+AUVISUZ1993AEDC|Air Conditioning
+AUVISUZ1993AEDC|Power Steering
+AUVISUZ1993AEDE|4 Wheel Disc Brakes
+AUVISUZ1993AEDE|Air Conditioning
+AUVISUZ1993AEDE|Power Steering
+AUVISUZ1993AEDG|4 Wheel Disc Brakes
+AUVISUZ1993AEDG|Air Conditioning
+AUVISUZ1993AEDG|Power Steering
+AUVISUZ1993AEDI|4 Wheel Disc Brakes
+AUVISUZ1993AEDI|Air Conditioning
+AUVISUZ1993AEDI|Power Steering
+AUVISUZ1993AEDK|4 Wheel Disc Brakes
+AUVISUZ1993AEDK|Air Conditioning
+AUVISUZ1993AEDK|Power Steering
+AUVISUZ1993AEDM|4 Wheel Disc Brakes
+AUVISUZ1993AEDM|Air Conditioning
+AUVISUZ1993AEDM|Power Steering
+AUVISUZ1993AEDQ|4 Wheel Disc Brakes
+AUVISUZ1993AEDQ|Air Conditioning
+AUVISUZ1993AEDQ|Alloy Wheels
+AUVISUZ1993AEDQ|Power Steering
+AUVISUZ1993AEDQ|Sports Seats - 1st Row (Front)
+AUVISUZ1993AEDS|4 Wheel Disc Brakes
+AUVISUZ1993AEDS|Air Conditioning
+AUVISUZ1993AEDS|Alloy Wheels
+AUVISUZ1993AEDS|Power Steering
+AUVISUZ1993AEDS|Sports Seats - 1st Row (Front)
+AUVISUZ1993AEDT|4 Wheel Disc Brakes
+AUVISUZ1993AEDT|Air Conditioning
+AUVISUZ1993AEDT|Power Steering
+AUVTOYO1990AEQJ|Air Conditioning
+AUVTOYO1990AEQJ|Central Locking
+AUVTOYO1990AEQJ|Power Steering
+AUVTOYO1990AEQJ|Power Windows - Front & Rear
+AUVTOYO1990AEQK|Air Conditioning
+AUVTOYO1990AEQK|Central Locking
+AUVTOYO1990AEQK|Power Steering
+AUVTOYO1990AEQK|Power Windows - Front & Rear
+AUVTOYO1990AEQL|Air Conditioning
+AUVTOYO1990AEQL|Central Locking
+AUVTOYO1990AEQL|Power Steering
+AUVTOYO1990AEQL|Power Windows - Front & Rear
+AUVTOYO1990AEQM|Air Conditioning
+AUVTOYO1990AEQM|Central Locking
+AUVTOYO1990AEQM|Power Steering
+AUVTOYO1990AEQM|Power Windows - Front & Rear
+AUVTOYO1990AEQN|Air Conditioning
+AUVTOYO1990AEQN|Central Locking
+AUVTOYO1990AEQN|Power Steering
+AUVTOYO1990AEQN|Power Windows - Front & Rear
+AUVTOYO1990AEQO|Air Conditioning
+AUVTOYO1990AEQO|Central Locking
+AUVTOYO1990AEQO|Power Steering
+AUVTOYO1990AEQO|Power Windows - Front & Rear
+AUVTOYO1991AEKM|Air Conditioning
+AUVTOYO1991AEKM|Power Steering
+AUVTOYO1991AEKN|Air Conditioning
+AUVTOYO1991AEKN|Power Steering
+AUVTOYO1991AEKO|Air Conditioning
+AUVTOYO1991AEKO|Central Locking
+AUVTOYO1991AEKO|Power Steering
+AUVTOYO1991AEKO|Power Windows - Front & Rear
+AUVTOYO1991AEKP|Air Conditioning
+AUVTOYO1991AEKP|Central Locking
+AUVTOYO1991AEKP|Power Steering
+AUVTOYO1991AEKP|Power Windows - Front & Rear
+AUVTOYO1991AEKQ|Air Conditioning
+AUVTOYO1991AEKQ|Central Locking
+AUVTOYO1991AEKQ|Power Steering
+AUVTOYO1991AEKQ|Power Windows - Front & Rear
+AUVTOYO1991AEKR|Air Conditioning
+AUVTOYO1991AEKR|Central Locking
+AUVTOYO1991AEKR|Power Steering
+AUVTOYO1991AEKR|Power Windows - Front & Rear
+AUVTOYO1991AEKV|Air Conditioning
+AUVTOYO1991AEKV|Central Locking
+AUVTOYO1991AEKV|Power Door Mirrors
+AUVTOYO1991AEKV|Power Steering
+AUVTOYO1991AEKV|Power Windows - Front & Rear
+AUVTOYO1991AEKW|Air Conditioning
+AUVTOYO1991AEKW|Central Locking
+AUVTOYO1991AEKW|Power Door Mirrors
+AUVTOYO1991AEKW|Power Steering
+AUVTOYO1991AEKW|Power Windows - Front & Rear
+AUVTOYO1991AEKX|Air Conditioning
+AUVTOYO1991AEKX|Central Locking
+AUVTOYO1991AEKX|Power Door Mirrors
+AUVTOYO1991AEKX|Power Steering
+AUVTOYO1991AEKX|Power Windows - Front & Rear
+AUVTOYO1991AEKY|Air Conditioning
+AUVTOYO1991AEKY|Central Locking
+AUVTOYO1991AEKY|Power Door Mirrors
+AUVTOYO1991AEKY|Power Steering
+AUVTOYO1991AEKY|Power Windows - Front & Rear
+AUVTOYO1991AEKZ|Air Conditioning
+AUVTOYO1991AEKZ|Central Locking
+AUVTOYO1991AEKZ|Power Door Mirrors
+AUVTOYO1991AEKZ|Power Steering
+AUVTOYO1991AEKZ|Power Windows - Front & Rear
+AUVTOYO1991AELA|Air Conditioning
+AUVTOYO1991AELA|Central Locking
+AUVTOYO1991AELA|Power Door Mirrors
+AUVTOYO1991AELA|Power Steering
+AUVTOYO1991AELA|Power Windows - Front & Rear
+AUVTOYO1991AELB|Air Conditioning
+AUVTOYO1991AELB|Central Locking
+AUVTOYO1991AELB|Power Door Mirrors
+AUVTOYO1991AELB|Power Steering
+AUVTOYO1991AELB|Power Windows - Front & Rear
+AUVTOYO1991AELC|Air Conditioning
+AUVTOYO1991AELC|Central Locking
+AUVTOYO1991AELC|Power Door Mirrors
+AUVTOYO1991AELC|Power Steering
+AUVTOYO1991AELC|Power Windows - Front & Rear
+AUVTOYO1992AEJV|Air Conditioning
+AUVTOYO1992AEJV|Power Steering
+AUVTOYO1992AEJW|Air Conditioning
+AUVTOYO1992AEJW|Power Steering
+AUVTOYO1993AEJP|Air Conditioning
+AUVTOYO1993AEJP|Power Steering
+AUVTOYO1993AEJQ|Air Conditioning
+AUVTOYO1993AEJQ|Power Steering
+AUVTOYO1994AEMA|Air Conditioning
+AUVTOYO1994AEMA|Power Steering
+AUVTOYO1994AEMB|Air Conditioning
+AUVTOYO1994AEMB|Power Steering
