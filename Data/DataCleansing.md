@@ -8,3 +8,8 @@ These are as follows:
 'Motorcycle' - Motorcycle and related vechicles.
 'Recreational' - Vechicles primarily used for the purpose of recreational travel.
 'TRAILER' - Vechicle trailers
+
+Redbook_Data.csv 
+* Merged on Brand information
+* Dropped unwanted fields
+* Added headings 
